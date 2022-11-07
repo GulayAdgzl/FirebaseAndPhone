@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628454745178",
+    "project_id": "glyflutter-f172c",
+    "storage_bucket": "glyflutter-f172c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628454745178:android:fa3d4e13928e3d7322a463",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628454745178-3rmm48p57et8f3hp4b6st2fvh5o495ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvQiLETSK1rxjPHB2TxJaFM4n_P2gl6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628454745178-3rmm48p57et8f3hp4b6st2fvh5o495ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
